@@ -26,12 +26,18 @@ Version Control: GitHub
 팀원 및 역할 분담
 
 백승찬	(PM) Edge AI	전체 총괄 및 일정 관리, 노면 분류 모델(TinyML) 개발, 데이터셋 수집, 노선 관리
+
 이의주	(ESW)	자율주행 보조, 2D 맵핑, Edge AI 보조, GitHub 관리
+
 박태정	(HW)	자율주행 및 HW 총괄
+
 고현서	(BE)	BE(Spring Boot), STM 통신, 발표 및 PPT 제작
+
 변정섭	(FE)	FE(React) 대시보드, 자료 조사, 회의록 관리
 
+
 협업 가이드라인
+
 1. 브랜치 전략 (Branch Strategy)
 
 main: 배포 가능한 최종 버전. (직접 커밋 금지)
