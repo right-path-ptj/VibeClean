@@ -9,9 +9,16 @@
 #define INC_ESP8266_HAL_H_
 
 
-void ESP_Init (char *SSID, char *PASSWD);
+// Wi-Fi 초기화 함수
+void ESP_Init(char *SSID, char *PASSWD);
 
-void Server_Start (void);
+// HTTP GET 요청
+int ESP_HTTP_Get(char *host, char *path);
+
+// HTTP POST 요청
+int ESP_HTTP_Post(char *host, char *path, char *json);
+
+int ESP_HTTP_Get_Value(char *host, char *path, char *key, char *value_out);
 
 
 #endif /* INC_ESP8266_HAL_H_ */
