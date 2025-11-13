@@ -1,0 +1,38 @@
+# STM32 Build outputs
+**/Debug/
+**/Release/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.cyclo
+
+# IDE settings
+**/.settings/
+.metadata/
+.recommenders/
+
+# STM32CubeIDE specific
+*.launch
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
