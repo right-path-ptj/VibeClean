@@ -8,13 +8,13 @@
 VibeClean_Project/
 ├── HW/           # Hardware & Embedded Software (STM32)
 ├── BE/           # Backend (Spring Boot)
-├── FE/           # Frontend (React) - 추후 추가 예정
+├── FE/           # Frontend (React)
 └── README.md     # 이 파일
 ```
 
 - **[HW/](HW/)**: STM32 기반 임베디드 시스템, 센서 제어, 모터 제어, Edge AI
 - **[BE/](BE/)**: Spring Boot 백엔드 서버, MQTT 통신, REST API
-- **FE/**: React 기반 실시간 대시보드 (개발 예정)
+- **[FE/](FE/)**: React 기반 실시간 대시보드, 로봇 제어 UI
 
 각 폴더에는 해당 파트의 상세한 README가 포함되어 있습니다.
 
