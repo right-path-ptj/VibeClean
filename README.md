@@ -37,9 +37,9 @@ VibeClean_Project/
 
 Embedded: STM32CubeIDE
 
-Frontend: 
+Frontend: React
 
-Backend: 
+Backend: Spring Boot
 
 AI: Edge Impulse
 
