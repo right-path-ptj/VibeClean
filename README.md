@@ -1,3 +1,5 @@
+<img width="1222" height="1611" alt="image" src="https://github.com/user-attachments/assets/0aad1bd9-d010-4f5f-a3de-b096d1db208e" />
+
 # VibeClean - IoT Programming Team Project
 
 박태정 본인은 Hw에서 기본적인 펌웨어 환경 설정 및 센서 부착, 그리고 아래 기능을 맡았습니다.
